@@ -1,0 +1,4 @@
+Code:     Runner.instance_.gameOver = () => {}
+
+(For Learning How To Hack Dino Game Go Here (4 MIN) : https://www.youtube.com/watch?v=4408HRRishM
+                                              & Here: https://www.youtube.com/user/chjairamify?sub_confirmation=1
